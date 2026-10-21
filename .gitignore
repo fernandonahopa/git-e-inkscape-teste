@@ -1,0 +1,9 @@
+# Arquivos de backup do Inkscape
+*.bak
+*~
+*.svg#
+
+# Arquivos temporarios do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
