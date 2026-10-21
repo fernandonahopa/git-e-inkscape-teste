@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="0.271875"
-     inkscape:cx="360.45977"
-     inkscape:cy="362.29885"
+     inkscape:zoom="0.76897862"
+     inkscape:cx="360.21808"
+     inkscape:cy="362.16871"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -109,5 +109,17 @@
          d="m 110.34483,294.4217 361.37931,-25.91594 67.3401,6.91389 -401.35831,19.18866 z"
          points="471.72414,268.50576 539.06424,275.41965 137.70593,294.60831 110.34483,294.4217 " />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:530.18px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1c9213;fill-opacity:1;stroke-width:44.1817"
+       x="433.92838"
+       y="445.48633"
+       id="text8"
+       transform="scale(0.67174533,1.4886594)"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         x="433.92838"
+         y="445.48633"
+         style="stroke-width:44.1817;fill:#1c9213;fill-opacity:1">all</tspan></text>
   </g>
 </svg>
